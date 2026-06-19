@@ -1,6 +1,6 @@
 
 let titulo = document.getElementById("titulo");
-titulo.textContent = "Novo Título via JavaScript!";
+titulo.textContent = "Nova Roma";
 
 
 let paragrafo = document.getElementById("meuParagrafo");

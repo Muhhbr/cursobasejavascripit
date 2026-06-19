@@ -5,8 +5,8 @@ function multiplicador(x) {
 }
 
 const multiplicarPor3 = multiplicador(3);
-console.log(multiplicarPor3(5)); // 15
-console.log(multiplicarPor3(10)); // 30
+console.log(multiplicarPor3(5)); 
+console.log(multiplicarPor3(10)); 
 
 const multiplicarPor7 = multiplicador(7);
-console.log(multiplicarPor7(4)); // 28
+console.log(multiplicarPor7(4)); 
